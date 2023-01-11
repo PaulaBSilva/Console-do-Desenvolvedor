@@ -1,0 +1,31 @@
+/*Declarar a variável*\
+string nomep = 'Lasanha'; 
+
+/*Declarar a variável*\
+integer quant = 2; 
+
+/*Declarar a variável*\
+integer preco = 11; 
+
+/*Declarar a variável*\
+integer totalp = quant * preco; 
+
+/*SE quant for menor ou igual a 5*\
+if(quant <= 5){ 
+
+/*Exibir essa mensagem.*\
+system.debug(' O preço da ' + nomep + ' é ' + (totalp * 0.98).setScale(2));  
+
+/*SE NAO quant for maior que 5 e quant menor ou igual a 10*\
+}else if(quant > 5 && quant <= 10 ){ 
+
+/*Exibir essa mensagem*\
+system.debug(' O preço da ' + nomep + ' é ' + (totalp * 0.97).setScale(2)); 
+
+/*SE (nao tiver mais condições)*\
+}else{ 
+
+/*Exibir essa mensagem*\
+system.debug( 'O preço da ' + nomep + ' é ' + (totalp * 0.95).setScale(2)); 
+
+}
