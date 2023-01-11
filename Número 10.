@@ -1,7 +1,7 @@
 /*Declarar a variável*\
 integer valor = 13; 
 
-/*SE valor for menor que 10*\
+/*SE valor for maior que 10*\
 if(valor > 10){ 
 
 /*Exibir essa mensagem.*\
