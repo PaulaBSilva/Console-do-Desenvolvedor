@@ -1,0 +1,16 @@
+/*Declarar a variável*\
+integer valor = -8;
+
+/*SE valor for maior ou igual a 0*\
+if(valor >= 0){ 
+
+/*Exibir essa mensagem.*\
+system.debug('O valor é positivo'); 
+
+/*SE NAO for maior que 0*\
+}else if(valor < 0){ 
+
+/*Exibir essa mensagem*\
+system.debug(' É negativo'); 
+
+}
