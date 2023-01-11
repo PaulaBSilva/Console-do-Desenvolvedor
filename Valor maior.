@@ -1,0 +1,19 @@
+/*Declarar a variável*\
+integer valor3 = 5; 
+
+/*Declarar a variável*\
+integer valor4 = 7; 
+
+/*SE valor3 for maior que valor4*\
+if(valor3 > valor4){ 
+
+/*Exibir essa mensagem.*\
+system.debug(valor3);  
+
+/*SE NAO for maior que valor3*\
+}else if(valor4 > valor3){ 
+
+/*Exibir essa mensagem*\
+system.debug(valor4); 
+
+} 
