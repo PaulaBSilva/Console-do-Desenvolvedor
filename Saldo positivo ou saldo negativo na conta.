@@ -1,0 +1,28 @@
+/*Declarar a variável*\
+integer numcliente = 1213; 
+
+/*Declarar a variável*\
+integer saldo = 15; 
+
+/*Declarar a variável*\
+integer debito = 198; 
+
+/*Declarar a variável*\
+integer credito = 678; 
+
+/*Declarar a variável*\
+integer saldoat = (saldo - debito + credito); 
+
+/*SE saldoat for maior ou igual 0*\
+if(saldoat >= 0){ 
+
+/*Exibir essa mensagem.*\
+system.debug('Saldo Positivo'); 
+
+/*SE (nao tiver mais condições)*\
+}else{ 
+
+/*Exibir essa mensagem*\
+system.debug('Saldo Negativo'); 
+
+}
