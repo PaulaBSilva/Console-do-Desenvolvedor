@@ -1,0 +1,22 @@
+/*Declarar a variável*\
+integer a1 = 8; 
+
+/*Declarar a variável*\
+integer a2 = 5; 
+
+/*Declarar a variável*\
+integer media = a1 + a2 / 2; 
+
+/*SE media for maior ou igual a 6*\
+if(media >= 6){ 
+
+/*Exibir essa mensagem.*\
+system.debug('Voce foi aprovado.' + ' A média é ' + media); 
+
+/*SE NAO media for menor que 6*\
+}else if(media < 6){ 
+
+/*Exibir essa mensagem*\
+system.debug('Voce não foi aprovado.' + ' A média é ' + media); 
+
+}
