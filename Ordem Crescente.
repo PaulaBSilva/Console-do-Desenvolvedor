@@ -1,0 +1,24 @@
+/*Declarar a variável*\
+integer valor1 = 9;
+
+/*Declarar a variável*\
+integer valor2 = 7;
+
+/*SE valor1 for menor que valor2*\
+if(valor1 < valor2){
+
+/*Exibir essa mensagem.*\
+system.debug( valor1); 
+
+system.debug( valor2); 
+
+
+/*SE NAO valor2 for menor que valor1*\
+}else if(valor2 < valor1){ 
+
+/*Exibir essa mensagem*\
+system.debug(valor2); 
+
+system.debug(valor1); 
+
+} 
