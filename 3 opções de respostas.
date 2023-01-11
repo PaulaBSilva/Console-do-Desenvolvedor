@@ -1,0 +1,25 @@
+/*Declarar a variável*\
+integer v1 = 7; 
+
+/*Declarar a variável*\
+integer v2 = 9; 
+
+/*SE v1 for maior que v2*\
+if(v1 > v2){ 
+
+/*Exibir essa mensagem.*\
+system.debug('O primeiro é o Maior');     
+
+/*SE NAO v2 for maior que v1*\
+}else if(v2 > v1){ 
+
+/*Exibir essa mensagem*\
+system.debug(' O segundo é o Maior'); 
+
+/*SE (nao tiver mais condições)*\
+}else{ 
+
+/*Exibir essa mensagem*\
+system.debug( ' Numeros iguais'); 
+
+}
