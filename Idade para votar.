@@ -1,0 +1,19 @@
+/*Declarar a variável*\
+integer anoa = 2022; 
+
+/*Declarar a variável*\
+integer anon = 2006;
+
+/*SE anon for menor que 2004*\
+if(anon < 2004){ 
+
+/*Exibir essa mensagem.*\
+system.debug('Voce pode votar esse ano.'); 
+
+/*SE NAO anon for maior que 2004*\
+}else if(anon > 2004){ 
+
+/*Exibir essa mensagem*\
+system.debug('Voce não pode votar esse ano.'); 
+
+}
