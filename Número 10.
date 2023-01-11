@@ -1,0 +1,16 @@
+/*Declarar a variável*\
+integer valor = 13; 
+
+/*SE valor for menor que 10*\
+if(valor > 10){ 
+
+/*Exibir essa mensagem.*\
+system.debug('É maior que 10'); 
+
+/*SE NAO for maior que 10*\
+}else if(valor < 10){ 
+
+/*Exibir essa mensagem*\
+system.debug('Não e maior que 10'); 
+
+} 
